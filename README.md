@@ -1,5 +1,4 @@
-# File Compression Tool (C++ Huffman Coding)
-
+# File Compression Tool 
 A simple, ready-to-use command-line **file compression** utility built with **Huffman Coding** in C++.
 
 ## 🚀 Features
