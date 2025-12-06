@@ -1,0 +1,2 @@
+This is a sample file to test the Huffman Compression Tool.
+You can replace this with any text you like.
